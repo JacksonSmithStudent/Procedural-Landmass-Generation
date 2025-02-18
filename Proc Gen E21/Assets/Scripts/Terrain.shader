@@ -15,7 +15,7 @@
 		// Use shader model 3.0 target, to get nicer looking lighting
 		#pragma target 3.0
 
-		const static int maxLayerCount = 8;
+		const static int maxLayerCount = 100;
 		const static float epsilon = 1E-4;
 
 		int layerCount;
